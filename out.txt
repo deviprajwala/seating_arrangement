@@ -1,3 +1,20 @@
-3	4	9	
-2	5	8	
-1	6	7	
+6	7	18	19	30	31	42	43	
+5	8	17	20	29	32	41	44	
+4	9	16	21	28	33	40	45	
+
+
+3	10	15	22	27	34	39	46	
+2	11	14	23	26	35	38	47	
+1	12	13	24	25	36	37	48	
+Enter the seat number:The seat opposite to 9 is 4
+Asile seat seat
+Enter 1 to continue and 0 to exit
+Enter the seat number:The seat opposite to 23 is 14
+Middle seat
+Enter 1 to continue and 0 to exit
+Enter the seat number:The seat opposite to 25 is 36
+Window seat
+Enter 1 to continue and 0 to exit
+Enter the seat number:The seat opposite to 42 is 43
+Window seat
+Enter 1 to continue and 0 to exit
