@@ -7,7 +7,7 @@
 2	11	14	23	26	35	38	47	
 1	12	13	24	25	36	37	48	
 Enter the seat number:The seat opposite to 9 is 4
-Asile seat seat
+Asile seat
 Enter 1 to continue and 0 to exit
 Enter the seat number:The seat opposite to 23 is 14
 Middle seat

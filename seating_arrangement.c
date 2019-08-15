@@ -89,7 +89,7 @@ void seat(int i)
        }
        else if(i==3||i==4)
        {
-       printf("Asile seat seat\n");
+       printf("Asile seat\n");
        }
       
 }
